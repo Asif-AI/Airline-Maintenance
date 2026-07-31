@@ -300,7 +300,7 @@ if __name__ == "__main__":
     logging.basicConfig(level=logging.INFO)
 
     dataset_path = (
-        r"./backend/data/aircraft_maintenance_intelligence_dataset.xlsx"
+        r"backend\data\aircraft_maintenance_intelligence_dataset.xlsx"
     )
     aircraft_id = "AIR-001"
 
